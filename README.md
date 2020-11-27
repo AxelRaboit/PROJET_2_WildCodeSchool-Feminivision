@@ -49,4 +49,9 @@ En parallèle nous avons commencé à crée le wireframe; la version "Desktop" a
 
 <img width="1773" alt="trello-during-project" src="https://user-images.githubusercontent.com/66420167/100485810-cf71c480-3101-11eb-9ea8-0721b1a87956.png">
 
+## DESKTOP VERSION:
+
+## HEADER:
+![Header](https://user-images.githubusercontent.com/66420167/100485904-2081b880-3102-11eb-915b-f58cc596b914.png)
+
 
