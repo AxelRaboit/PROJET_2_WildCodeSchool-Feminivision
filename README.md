@@ -1,7 +1,7 @@
 ## Description
-Project made in the Wild Code School, a project in partnership with "la pellicule ensorcelée" who highlighting women film directors.
+Projet réalisé dans mon cursus PHP - Symfony à la Wild Code School, projet en partenariat avec "La pellicule ensorcelée" qui m'est en avant les femmes réalisatrices.
 
-## Try it
+## Essayer le projet
 
 1. Clone the repo from Github.
 2. Run `composer install`.
@@ -16,10 +16,29 @@ define('APP_DB_PWD', 'your_db_password');
 5. Run the internal PHP webserver with `php -S localhost:8000 -t public/`. The option `-t` with `public` as parameter means your localhost will target the `/public` folder.
 6. Go to `localhost:8000` with your favorite browser.
 
+## RENDU DU PROJET
 
+### DESKTOP
 
+<img width="1767" alt="Desktop" src="https://user-images.githubusercontent.com/66420167/100486822-0e097e00-3106-11eb-804d-c83cc7c08db6.png">
 
-## Étapes du projet
+<img width="1767" alt="Capture d’écran 2020-11-27 à 23 11 30" src="https://user-images.githubusercontent.com/66420167/100486850-29748900-3106-11eb-896f-42ad0af9ffe4.png">
+
+![Screen Shot 2020-11-27 at 23 02 38-fullpage](https://user-images.githubusercontent.com/66420167/100486862-3abd9580-3106-11eb-8430-e5e943e605ae.png)
+
+![Screen Shot 2020-11-27 at 23 03 31-fullpage](https://user-images.githubusercontent.com/66420167/100486886-5163ec80-3106-11eb-9d45-de7f7c0752b7.png)
+
+### MOBILE
+
+<img width="536" alt="Capture d’écran 2020-11-27 à 23 17 06" src="https://user-images.githubusercontent.com/66420167/100486985-cdf6cb00-3106-11eb-8a24-651fac78f0b6.png">
+
+<img width="538" alt="Capture d’écran 2020-11-27 à 23 17 23" src="https://user-images.githubusercontent.com/66420167/100487005-e5ce4f00-3106-11eb-9341-75d214fdab52.png">
+
+![Screen Shot 2020-11-27 at 23 06 48-fullpage](https://user-images.githubusercontent.com/66420167/100487029-fa124c00-3106-11eb-9ecd-1eb40643e1ba.png)
+
+![Screen Shot 2020-11-27 at 23 08 07-fullpage](https://user-images.githubusercontent.com/66420167/100487044-08606800-3107-11eb-8996-8bce0b566bda.png)
+
+## ETAPES DU PROJET
 
 ## PROJET 2: FEMINIVISION
 
